@@ -1,3 +1,0 @@
-hello from yuanbao sandbox
-pushed at: 2026-11-23 02:40:39 CST
-channel: GitHub Contents API (sandbox outbound allowlist)
